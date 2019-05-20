@@ -19,13 +19,13 @@ h2{
 }
 
 .navbar-brand{
-  font-family: 'Noticia Text', serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
 
 }
 
 .navbar{
-  background-color: #d4af37;
+  background-color: black;
 }
 
 .jumbotron-child{
@@ -50,6 +50,52 @@ h2{
   background-color: white;
 }
 
-.jumbotron-images{
-  object-fit: fill;
+
+.carousel-collections{
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  padding: 3rem;
+  font-size: 5rem;
+  color: white;
+}
+
+.carousel-inner{
+  z-index: -2;
+}
+
+.middle-container{
+  background-color: #dcdcdc;
+}
+
+.middle-container-title{
+  padding: 1rem 1rem 2rem 1rem;
+
+}
+
+.middle-container-child{
+  padding: 0 1rem;
+  line-height: 2;
+}
+
+.container-login100{
+  width: 100%;
+}
+
+.wrap-login100{
+  width: 100%
+}
+
+.col-center{
+  margin: auto;
+}
+
+.container-fluid{
+  width:100%;
+}
+
+.card{
+  margin: 1rem auto;
 }
