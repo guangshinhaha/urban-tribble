@@ -1,0 +1,101 @@
+h4{
+  font-size: 1rem;
+  font-family: 'Amiri', serif;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-family: 'Heebo' , sans-serif;
+  font-weight: bold;
+}
+
+
+.middle-container {
+  padding: 3rem 2rem;
+}
+
+.blog-button{
+  margin: 1rem 0;
+}
+
+.navbar-brand{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+
+}
+
+.navbar{
+  background-color: black;
+}
+
+.jumbotron-child{
+  padding: 2rem;
+}
+
+.collection-header {
+  text-align: center;
+  padding: 3rem;
+}
+
+.card{
+  margin: 2rem 0;
+}
+
+.title-header{
+  text-align: center;
+  font-family: cursive;
+
+}
+.jumbotron{
+  background-color: white;
+}
+
+
+.carousel-collections{
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  padding: 3rem;
+  font-size: 5rem;
+  color: white;
+}
+
+.carousel-inner{
+  z-index: -2;
+}
+
+.middle-container{
+  background-color: #dcdcdc;
+}
+
+.middle-container-title{
+  padding: 1rem 1rem 2rem 1rem;
+
+}
+
+.middle-container-child{
+  padding: 0 1rem;
+  line-height: 2;
+}
+
+.container-login100{
+  width: 100%;
+}
+
+.wrap-login100{
+  width: 100%
+}
+
+.col-center{
+  margin: auto;
+}
+
+.container-fluid{
+  width:100%;
+}
+
+.card{
+  margin: 1rem auto;
+}
